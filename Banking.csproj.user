@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Compile Update="Views\ChatView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HomeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoansView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MessageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\News.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Options.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Requests.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SignIn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SignUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\TransferView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WindowSupport.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Languages\language.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Languages\language.ru-RU.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\Default.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\Dark.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ChatView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HomeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoansView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MessageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\News.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Options.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Requests.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SignIn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SignUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TransferView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WindowSupport.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

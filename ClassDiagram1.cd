@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Banking.Helpers.Request">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banking.Models.Loan">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgADAAEACAAAAAAAAAAAAACAAkAIAAAAAABACCAAAiA=</HashCode>
+      <FileName>Helpers\Loan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banking.Models.Message">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAACAAAAAQ=</HashCode>
+      <FileName>Helpers\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banking.Models.BillModel">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Models\BillModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banking.Models.ClientModel">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAAAAAAAAAAABAQAAAAAAAACAAAAAQAAAAA=</HashCode>
+      <FileName>Models\ClientModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banking.Models.SupportModel">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAA=</HashCode>
+      <FileName>Models\SupportModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banking.Views.Requests" BaseTypeListCollapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Views\Requests.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

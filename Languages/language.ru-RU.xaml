@@ -1,0 +1,24 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Banking" xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="m_Home">Домашняя</v:String>
+    <v:String x:Key="m_Banking">Банк</v:String>
+    <v:String x:Key="m_Bills">Счета</v:String>
+    <v:String x:Key="m_Transfer">Переводы</v:String>
+    <v:String x:Key="m_Settings">Настройки</v:String>
+    <v:String x:Key="m_OptionThemes">Темы</v:String>
+    <v:String x:Key="m_OptionLanguage">Языки</v:String>
+    <v:String x:Key="m_News">Новости</v:String>
+    <v:String x:Key="m_Send">Отправить</v:String>
+    <v:String x:Key="m_Name">Имя:</v:String>
+    <v:String x:Key="m_Support">Номер поддержки:</v:String>
+    <v:String x:Key="m_Client">Номер клиента:</v:String>
+    <v:String x:Key="m_Text">Текст:</v:String>
+    <v:String x:Key="m_Messages">Сообщения</v:String>
+    <v:String x:Key="m_Euro">EUR</v:String>
+    <v:String x:Key="m_Dollar">USD</v:String>
+    <v:String x:Key="m_Pound">GBP</v:String>
+    <v:String x:Key="m_Amount">Остаток</v:String>
+    <v:String x:Key="m_NewBill">Новый счет</v:String>
+    <v:String x:Key="m_EnterBill">Введите номер счета</v:String>
+</ResourceDictionary>
